@@ -5,3 +5,7 @@ Steps to run this project:
 1. Run `npm i` command
 2. Setup database settings inside `ormconfig.json` file
 3. Run `npm start` command
+
+## Read
+
+[Creating a one-to-one relation](https://github.com/typeorm/typeorm#creating-a-one-to-one-relation)
